@@ -1,3 +1,8 @@
+body{
+    background-color:pink;
+}
+
+
 #paragraph1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -36,8 +41,3 @@
 #floatt{
     float: right;
 }
-
-
-
-
-
