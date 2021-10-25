@@ -1,0 +1,43 @@
+#paragraph1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#paragraph2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#header{
+    border: dotted;
+    width: 130px;
+}
+
+.centered{
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    color: red;
+}
+
+#round{
+    border-radius: 25px;
+    padding: 10px;
+    background: #73AD21;
+    width: 210px;
+}
+
+#float{
+    float: left;
+}
+
+#floatt{
+    float: right;
+}
+
+
+
+
+
